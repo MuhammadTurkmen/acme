@@ -259,6 +259,10 @@ section {
         position: static;
         background: transparent;
     }
+
+    .primary-nav a {
+        color: inherit;
+    }
 }
 
 .article-preview h3 {
