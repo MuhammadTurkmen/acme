@@ -138,11 +138,11 @@
     color: var(--clr-neutral-400);
   }
   
-  .section-subtitle {
+.section-subtitle {
     font-size: var(--fs-600);
-  }
+}
   
-  .btn {
+.btn {
     display: inline-block;
     cursor: pointer;
     border: 0;
@@ -152,24 +152,24 @@
     font-family: var(--ff-sans);
     text-decoration: none;
     color: var(--clr-neutral-900);
-  }
+}
   
-  .btn::after {
+.btn::after {
     content: "\203A";
     margin-left: 1em;
     font-weight: var(--fw-300);
-  }
+}
   
-  .btn:hover,
-  .btn:focus {
+.btn:hover,
+.btn:focus {
     color: var(--clr-primary-400);
-  }
+}
   
-  /* general layout */
+/* general layout */
   
-  section {
+section {
     padding: 2.5rem 0;
-  }
+}
   
 @media (min-width: 40em) {
     section {
