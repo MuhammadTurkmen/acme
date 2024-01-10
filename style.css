@@ -239,6 +239,7 @@ header {
 
 .primary-nav ul {
     display: flex;
+    justify-content: space-around;
     margin: 0;
     padding: 0.5em 0;
 }
