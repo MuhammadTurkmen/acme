@@ -239,6 +239,7 @@ header {
 
 .primary-nav ul {
     display: flex;
+    margin: 0;
 }
 
 .primary-nav a {
