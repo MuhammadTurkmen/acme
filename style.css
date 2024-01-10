@@ -268,6 +268,10 @@ section {
         display: flex;
     }
 
+    .primary-nav ul {
+        padding: 0;
+    }
+
 }
 
 .article-preview h3 {
