@@ -101,42 +101,42 @@
   
   /* typography */
   
-  h1,
-  h2,
-  h3,
-  .section-subtitle,
-  .text-serif {
+h1,
+h2,
+h3,
+.section-subtitle,
+.text-serif {
     font-family: var(--ff-serif);
     font-weight: var(--fw-200);
-  }
+}
   
-  a {
+a {
     font-weight: var(--fw-700);
     font-size: var(--fs-300);
     color: var(--clr-neutral-900);
-  }
+}
   
-  a:hover,
-  a:focus {
+a:hover,
+a:focus {
     color: var(--clr-primary-400);
-  }
+}
   
-  .text-500 {
+.text-500 {
     font-size: var(--fs-500);
-  }
+}
   
-  .page-title {
+.page-title {
     font-size: var(--fs-900);
-  }
+}
   
-  .page-intro {
+.page-intro {
     font-size: var(--fs-600);
-  }
+}
   
-  .section-title {
+.section-title {
     font-size: var(--fs-600);
     color: var(--clr-neutral-400);
-  }
+}
   
 .section-subtitle {
     font-size: var(--fs-600);
