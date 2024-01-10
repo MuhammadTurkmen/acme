@@ -251,6 +251,7 @@ header {
 
 .primary-nav a {
     color: var(--clr-neutral-200);
+    text-decoration: none;
 }
 
 .article-preview h3 {
