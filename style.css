@@ -263,6 +263,11 @@ section {
     .primary-nav a {
         color: inherit;
     }
+
+    .primary-header__inner {
+        display: flex;
+    }
+
 }
 
 .article-preview h3 {
