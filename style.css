@@ -273,7 +273,7 @@ section {
         padding: 0;
     }
 
-    .primary-nav ul > * {
+    .primary-nav li {
         margin-left: 2em ;
     }
 }
