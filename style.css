@@ -215,15 +215,16 @@
   
   /* components */
   
-  .primary-header {
+.primary-header {
     border-radius: var(--br);
     padding: 2rem;
     background-color: var(--clr-primary-400);
     background-size: cover;
     min-height: 50vh;
-  }
+}
   
-  .primary-nav {
+
+.primary-nav {
     position: fixed;
     bottom: 0.5em;
     left: 0.5em;
@@ -231,7 +232,7 @@
     border-radius: var(--br);
     background: var(--clr-neutral-900);
     font-family: var(--ff-serif);
-  }
+}
   
   .primary-nav ul {
     display: flex;
