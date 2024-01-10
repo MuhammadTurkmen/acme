@@ -257,6 +257,7 @@ section {
 @media (min-width: 40em) {
     .primary-nav {
         position: static;
+        background: transparent;
     }
 }
 
