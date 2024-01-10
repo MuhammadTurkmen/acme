@@ -240,6 +240,7 @@ header {
 .primary-nav ul {
     display: flex;
     margin: 0;
+    padding: 0.5em 0;
 }
 
 .primary-nav a {
