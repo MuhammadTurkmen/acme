@@ -273,6 +273,9 @@ section {
         padding: 0;
     }
 
+    .primary-nav ul > * {
+        margin-left: 2em ;
+    }
 }
 
 .article-preview h3 {
