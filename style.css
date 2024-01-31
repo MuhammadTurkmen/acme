@@ -121,6 +121,7 @@ h3,
 
 .btn {
     text-decoration: none;
+    color: var(--clr-neutral-900);
 }
 
 /* general layout */
