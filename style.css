@@ -78,4 +78,5 @@ body {
 
 .text-serif {
     font-family: var(--ff-serif);
+    font-weight: var(--fw-200);
 }
