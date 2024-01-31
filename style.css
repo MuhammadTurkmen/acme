@@ -27,3 +27,39 @@
   
     --br: 1rem;
 }
+
+/* reset */
+  
+*,
+*::before,
+*::after {  
+    box-sizing: border-box;
+}    
+ 
+h1,       
+.h1,   
+h2,    
+.h2,
+h3,     
+.h3 {
+    line-height: 1.2;
+}
+  
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
+  
+ul[class],
+ol[class] {
+    list-style: none;
+    padding: 0;
+}
+  
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
