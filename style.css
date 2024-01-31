@@ -73,3 +73,9 @@ body {
     font-family: var(--ff-sans);
     font-size: var(--fs-400);
 }
+
+/* typography */
+
+.text-serif {
+    font-family: var(--ff-serif);
+}
