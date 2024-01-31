@@ -123,7 +123,7 @@ h3,
 
 .container {
     max-width: 50rem;
-    margin: 0 auto;
+    margin: 0 auto; 
 }
 
 .flow-content > * + * {
