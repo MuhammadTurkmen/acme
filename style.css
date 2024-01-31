@@ -111,6 +111,11 @@ h3,
     color: var(--clr-neutral-400);
 }
 
+.section-subtitle {
+    font-size: var(--fs-600);
+    font-family: var(--ff-serif);
+}
+
 /* general layout */
 
 .container {
