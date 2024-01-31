@@ -37,6 +37,10 @@
     --br: 1rem;
 }
 
+@media (min-width: 40em) {
+    
+}
+
 /* reset */
   
 *,
