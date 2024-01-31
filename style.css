@@ -76,7 +76,14 @@ body {
 
 /* typography */
 
+h1,
+h2,
+h3,
 .text-serif {
     font-family: var(--ff-serif);
     font-weight: var(--fw-200);
+}
+
+.page-title {
+    font-size: var(--fs-900);
 }
