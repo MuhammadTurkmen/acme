@@ -46,7 +46,7 @@ h3,
 }
   
 h1,
-h2,
+h2, 
 h3,
 p {
     margin: 0;
@@ -60,6 +60,6 @@ ol[class] {
   
 img {
     max-width: 100%;
-    height: auto;
+    height: auto; 
     display: block;
 }
