@@ -131,6 +131,10 @@ section {
     padding: 3.5rem;
 }
 
+@media (min-width: 40em) {
+    
+}
+
 .container {
     max-width: 50rem;
     margin: 0 auto; 
