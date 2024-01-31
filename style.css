@@ -93,6 +93,10 @@ h3,
     font-weight: var(--fw-200);
 }
 
+.text-500 {
+    font-size: var(--fs-500);
+}
+
 .page-title {
     font-size: var(--fs-900);
 }
