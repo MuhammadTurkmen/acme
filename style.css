@@ -100,3 +100,8 @@ h3,
 .page-intro {
     font-size: var(--fs-600);
 }
+
+.section-title {
+    font-size: var(--fs-600);
+    color: var(--clr-neutral-400);
+}
