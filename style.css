@@ -96,3 +96,7 @@ h3,
 .page-title {
     font-size: var(--fs-900);
 }
+
+.page-intro {
+    font-size: var(--fs-600);
+}
