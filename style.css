@@ -120,6 +120,7 @@ h3,
 }
 
 .btn {
+    display: inline-block;
     text-decoration: none;
     color: var(--clr-neutral-900);
 }
