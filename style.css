@@ -51,7 +51,8 @@ h2,
 h3,
 p,
 dd,
-dt {
+dt,
+figure {
     margin: 0;
 }
   
