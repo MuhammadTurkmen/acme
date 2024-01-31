@@ -109,3 +109,10 @@ h3,
     font-size: var(--fs-600);
     color: var(--clr-neutral-400);
 }
+
+/* general layout */
+
+.container {
+    max-width: 50rem;
+    margin: 0 auto;
+}
