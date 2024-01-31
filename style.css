@@ -119,6 +119,10 @@ h3,
     font-family: var(--ff-serif);
 }
 
+.btn {
+    text-decoration: none;
+}
+
 /* general layout */
 
 .container {
