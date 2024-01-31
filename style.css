@@ -127,6 +127,10 @@ h3,
 
 /* general layout */
 
+section {
+    padding: 3.5rem;
+}
+
 .container {
     max-width: 50rem;
     margin: 0 auto; 
