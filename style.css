@@ -87,6 +87,11 @@ body {
     padding: 1.5rem;
 }
 
+.bg-primary-300 {
+    background-color: var(--clr-primary-300);
+
+}
+
 /* typography */
 
 h1,
