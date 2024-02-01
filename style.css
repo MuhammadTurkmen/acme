@@ -188,7 +188,7 @@ section {
 }
 
 .article-preview .article-info {
-    
+    display: flex;
 }
 
 /* homepage styles */
