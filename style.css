@@ -146,7 +146,9 @@ section {
     margin-top: var(--flow-spacer, 1em);   
 }
 
-
+.split {
+    display: flex;
+}
 
 .xl-space {
     margin-top: 5rem;
