@@ -181,6 +181,12 @@ section {
     margin-top: 5rem;
 }
 
+/* components */
+
+.article-preview h3 {
+    font-size: var(--fs-500);
+}
+
 /* homepage styles */
 
 .intro {
