@@ -221,6 +221,10 @@ section {
     display: block;
 }
 
+.call-to-action input {
+    width: 100%;
+}
+
 /* homepage styles */
 
 .intro {
