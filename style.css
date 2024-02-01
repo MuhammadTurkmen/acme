@@ -210,11 +210,11 @@ section {
     display: flex;
 }
 
-.call-to-action form > * {
+.call-to-action form > div {
     flex-grow: auto;
     flex-shrink: 1;
-    flex-grow: 0;
-    
+    flex-grow: 1;
+    /* border: 1px solid red; */
 }
 
 .call-to-action label {
