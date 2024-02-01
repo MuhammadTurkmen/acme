@@ -194,6 +194,10 @@ section {
     color: var(--clr-neutral-400);
 }
 
+.article-preview .article-info > *:first-child {
+    margin-right: 2rem;
+}
+
 /* homepage styles */
 
 .intro {
