@@ -128,7 +128,7 @@ h3,
 /* general layout */
 
 section {
-    padding: 2.5rem;
+    padding: 2.5rem 0;
 }
 
 @media (min-width: 40em) {
