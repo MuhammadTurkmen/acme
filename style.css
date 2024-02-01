@@ -228,6 +228,8 @@ section {
 
 .call-to-action label {
     display: block;
+    font-size: var(--fs-200);
+    font-weight: var(--fw-400);
 }
 
 .call-to-action input {
