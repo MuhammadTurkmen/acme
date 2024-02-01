@@ -191,6 +191,7 @@ section {
     display: flex;
     font-weight: var(--fw-400);
     font-size: var(--fs-200);
+    color: var(--clr-neutral-400);
 }
 
 /* homepage styles */
