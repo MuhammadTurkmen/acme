@@ -146,6 +146,10 @@ section {
     margin-top: var(--flow-spacer, 1em);   
 }
 
+.split > * + * {
+    margin: 2rem 0 0 0;
+}
+
 .split {
     display: flex;
     flex-direction: column;
