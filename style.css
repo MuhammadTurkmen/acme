@@ -91,6 +91,7 @@ body {
     background-color: var(--clr-primary-300);
     border-radius: 1rem;
     padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 /* typography */
