@@ -238,6 +238,10 @@ section {
     border-bottom: 2px solid var(--clr-neutral-300);
 }
 
+.call-to-action input::placeholder {
+    color: red;
+}
+
 /* homepage styles */
 
 .intro {
