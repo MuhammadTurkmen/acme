@@ -128,11 +128,13 @@ h3,
 /* general layout */
 
 section {
-    padding: 3.5rem;
+    padding: 2.5rem;
 }
 
 @media (min-width: 40em) {
-    
+    section {
+        padding: 3.5rem;
+    }
 }
 
 .container {
