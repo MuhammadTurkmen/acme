@@ -190,6 +190,7 @@ section {
 .article-preview .article-info {
     display: flex;
     font-weight: var(--fw-400);
+    font-size: var(--fs-200);
 }
 
 /* homepage styles */
