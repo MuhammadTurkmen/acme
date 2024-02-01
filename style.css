@@ -152,6 +152,10 @@ section {
     gap: 2.5rem;
 }
 
+.split > * {
+    flex-grow: 100%;
+}
+
 @media (min-width: 40em) {
     .split {
         flex-direction: row;
