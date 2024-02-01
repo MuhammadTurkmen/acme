@@ -225,6 +225,7 @@ section {
 
 .call-to-action input {
     width: 100%;
+    border: 0;
 }
 
 /* homepage styles */
