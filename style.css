@@ -188,7 +188,11 @@ section {
     font-size: var(--fs-500);
 }
 
-.article-preview .info {
+.article-preview img {
+    object-fit: cover;
+}
+
+.article-preview .info {    
     display: flex;
     font-weight: var(--fw-400);
     font-size: var(--fs-200);
