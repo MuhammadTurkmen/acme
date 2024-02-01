@@ -208,6 +208,7 @@ section {
 
 .call-to-action form {
     display: flex;
+    gap: 3rem;
 }
 
 .call-to-action form > div {
