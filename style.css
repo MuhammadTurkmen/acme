@@ -148,6 +148,7 @@ section {
 
 .split {
     display: flex;
+    flex-direction: column;
 }
 
 .xl-space {
