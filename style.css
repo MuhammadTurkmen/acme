@@ -146,6 +146,14 @@ section {
     margin-top: var(--flow-spacer, 1em);   
 }
 
+
+
 .xl-space {
     margin-top: 5rem;
+}
+
+/* homepage styles */
+
+.intro {
+    --flow-spacer: 2em
 }
