@@ -210,6 +210,13 @@ section {
     display: flex;
 }
 
+.call-to-action form > * {
+    flex-grow: auto;
+    flex-shrink: 1;
+    flex-grow: 0;
+    
+}
+
 .call-to-action label {
     display: block;
 }
