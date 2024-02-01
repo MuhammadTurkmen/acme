@@ -205,6 +205,11 @@ section {
     margin-right: 2rem;
 }
 
+
+.call-to-action form {
+    display: flex;
+}
+
 /* homepage styles */
 
 .intro {
