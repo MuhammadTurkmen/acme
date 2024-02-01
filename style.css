@@ -210,6 +210,10 @@ section {
     display: flex;
 }
 
+.call-to-action label {
+    display: block;
+}
+
 /* homepage styles */
 
 .intro {
