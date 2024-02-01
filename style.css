@@ -207,6 +207,7 @@ section {
 
 
 .call-to-action form {
+    margin-top: 3rem;
     display: flex;
     gap: 3rem;
 }
