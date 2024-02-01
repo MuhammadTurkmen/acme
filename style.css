@@ -239,7 +239,7 @@ section {
 }
 
 .call-to-action input::placeholder {
-    color: red;
+    color: var(--clr-neutral-300);
 }
 
 /* homepage styles */
