@@ -187,6 +187,10 @@ section {
     font-size: var(--fs-500);
 }
 
+.article-preview .article-info {
+    
+}
+
 /* homepage styles */
 
 .intro {
