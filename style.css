@@ -187,14 +187,14 @@ section {
     font-size: var(--fs-500);
 }
 
-.article-preview .article-info {
+.article-preview .info {
     display: flex;
     font-weight: var(--fw-400);
     font-size: var(--fs-200);
     color: var(--clr-neutral-400);
 }
 
-.article-preview .article-info > *:first-child {
+.article-preview .info > *:first-child {
     margin-right: 2rem;
 }
 
