@@ -137,6 +137,7 @@ h3,
 
 .btn {
     display: inline-block;
+    cursor: pointer;
     text-decoration: none;
     color: var(--clr-neutral-900);
 }
