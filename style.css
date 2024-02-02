@@ -227,6 +227,10 @@ header {
     min-height: 50vh;
 }
 
+.primary-nav {
+    position: fixed;
+}
+
 .article-preview h3 {
     font-size: var(--fs-500);
 }
