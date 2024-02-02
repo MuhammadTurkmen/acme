@@ -229,7 +229,7 @@ header {
 
 .primary-nav {
     position: fixed;
-    bottom: 0;
+    bottom: 1em;
     left: 0;
     width: 100%;
     background-color: var(--clr-neutral-900);
