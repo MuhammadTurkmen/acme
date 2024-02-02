@@ -282,6 +282,7 @@ section {
 .primary-footer__inner {
     --border: 1px solid var(--clr-neutral-200);
     border-top: var(--border);
+    border-bottom: var(--border);
 }
 
 .footer-nav {
