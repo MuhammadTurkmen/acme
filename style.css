@@ -250,7 +250,10 @@ section {
 }
 
 @media (min-width: 40em) {
-    
+    .call-to-action form {
+        flex-direction: row;
+        
+    }
 }
 .call-to-action form > div {
     flex-grow: auto;
