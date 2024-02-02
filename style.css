@@ -280,7 +280,8 @@ section {
 
 
 .primary-footer__inner {
-    --border: 1px solid var(var(--clr-neutral-200))
+    --border: 1px solid var(--clr-neutral-200);
+    border-top: var(--border);
 }
 
 .footer-nav {
