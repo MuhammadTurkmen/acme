@@ -288,6 +288,10 @@ section {
 
 
 
+.footer-social a {
+    font-weight: var(--fw-200);
+}
+
 /* homepage styles */
 
 .intro {
