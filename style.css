@@ -229,6 +229,7 @@ header {
 
 .primary-nav {
     position: fixed;
+    bottom: 0;
 }
 
 .article-preview h3 {
