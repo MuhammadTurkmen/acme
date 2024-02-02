@@ -270,6 +270,9 @@ section {
     display: flex;
 }
 
+.footer-nav > *:first-child {
+    margin-right: 5rem;
+}
 
 /* homepage styles */
 
