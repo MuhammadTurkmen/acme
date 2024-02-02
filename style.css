@@ -284,6 +284,7 @@ section {
     border-top: var(--border);
     border-bottom: var(--border);
     padding: 3em 0;
+    margin: 2em 0;
 }
 
 .footer-nav {
