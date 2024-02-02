@@ -149,6 +149,7 @@ h3,
 .btn::after {
     content: "\203A";
     margin-left: 1em;
+    font-weight: var(--fw-300);
 }
 
 /* general layout */
