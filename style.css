@@ -276,6 +276,7 @@ section {
 
 .footer-nav a {
     text-decoration: none;
+    font-weight: var(--fw-700);
 }
 
 /* homepage styles */
