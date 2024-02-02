@@ -108,9 +108,21 @@ body {
 h1,
 h2,
 h3,
+.section-subtitle,
 .text-serif {
     font-family: var(--ff-serif);
     font-weight: var(--fw-200);
+}
+
+a {
+    font-weight: var(--fw-700);
+    font-size: var(--fs-300);
+    color: var(--clr-neutral-900);
+}   
+
+a:hover,
+a:focus {
+    
 }
 
 .text-500 {
@@ -274,12 +286,7 @@ section {
     margin-right: 4rem;
 }
 
-.footer-nav a {
-    text-decoration: none;
-    font-weight: var(--fw-700);
-    font-size: var(--fs-300);
-    color: var(--clr-neutral-900);
-}
+
 
 /* homepage styles */
 
