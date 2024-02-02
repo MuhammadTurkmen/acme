@@ -266,6 +266,11 @@ section {
     opacity: 1;
 }
 
+.footer-nav {
+    display: flex;
+}
+
+
 /* homepage styles */
 
 .intro {
