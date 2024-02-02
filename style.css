@@ -258,6 +258,7 @@ section {
 
 .call-to-action input:focus {
     border-color: var(--clr-primary-400);
+    border-width: 4px;
 }
 
 .call-to-action input::placeholder {
