@@ -140,6 +140,7 @@ h3,
     cursor: pointer;
     border: 0;
     background: none;
+    font-weight: var(--fw-700);
     text-decoration: none;
     color: var(--clr-neutral-900);
 }
