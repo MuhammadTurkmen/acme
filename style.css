@@ -224,6 +224,7 @@ header {
     background-color: var(--clr-primary-400);
     border-radius: var(--br);
     padding: 2rem;
+    min-height: 50vh;
 }
 
 .article-preview h3 {
