@@ -148,6 +148,7 @@ h3,
 
 .btn::after {
     content: "\203A";
+    margin-left: 1em;
 }
 
 /* general layout */
