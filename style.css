@@ -220,6 +220,12 @@ section {
 
 /* components */
 
+header {
+    background-color: var(--clr-primary-400);
+    border-radius: var(--br);
+    padding: 2rem;
+}
+
 .article-preview h3 {
     font-size: var(--fs-500);
 }
