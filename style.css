@@ -147,7 +147,7 @@ h3,
 }
 
 .btn::after {
-    content: '';
+    content: "\203A";
 }
 
 /* general layout */
