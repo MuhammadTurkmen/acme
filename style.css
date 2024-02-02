@@ -138,6 +138,7 @@ h3,
 .btn {
     display: inline-block;
     cursor: pointer;
+    border: 0;
     text-decoration: none;
     color: var(--clr-neutral-900);
 }
