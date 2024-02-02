@@ -271,7 +271,11 @@ section {
 }
 
 .footer-nav > *:first-child {
-    margin-right: 5rem;
+    margin-right: 4rem;
+}
+
+.footer-nav a {
+    text-decoration: none;
 }
 
 /* homepage styles */
