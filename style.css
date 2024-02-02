@@ -146,6 +146,10 @@ h3,
     color: var(--clr-neutral-900);
 }
 
+.btn::after {
+    content: '';
+}
+
 /* general layout */
 
 section {
