@@ -277,6 +277,7 @@ section {
 .footer-nav a {
     text-decoration: none;
     font-weight: var(--fw-700);
+    color: var(--clr-neutral-900);
 }
 
 /* homepage styles */
