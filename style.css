@@ -141,6 +141,7 @@ h3,
     border: 0;
     background: none;
     font-weight: var(--fw-700);
+    font-size: var(--fs-300);
     text-decoration: none;
     color: var(--clr-neutral-900);
 }
