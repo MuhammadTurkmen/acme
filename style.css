@@ -153,6 +153,11 @@ h3,
     font-weight: var(--fw-300);
 }
 
+.btn:hover,
+.btn:focus {
+    color: var(--clr-primary-400);
+}
+
 /* general layout */
 
 section {
