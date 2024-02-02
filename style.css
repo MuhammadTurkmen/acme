@@ -232,6 +232,7 @@ header {
     bottom: 0.5em;
     left: .5em;
     right: .5em;
+    border-radius: var(--br);
     background-color: var(--clr-neutral-900);
 }
 
