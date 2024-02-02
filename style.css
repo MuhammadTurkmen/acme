@@ -240,6 +240,7 @@ section {
 
 .call-to-action input::placeholder {
     color: var(--clr-neutral-300);
+    opacity: 1;
 }
 
 /* homepage styles */
