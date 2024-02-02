@@ -287,6 +287,10 @@ section {
 }
 
 
+.footer-social {
+    display: flex;
+}
+
 
 .footer-social a {
     font-weight: var(--fw-200);
