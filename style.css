@@ -277,6 +277,7 @@ section {
 .footer-nav a {
     text-decoration: none;
     font-weight: var(--fw-700);
+    font-size: var(--fs-300);
     color: var(--clr-neutral-900);
 }
 
