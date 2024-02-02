@@ -240,6 +240,10 @@ header {
     display: flex;
 }
 
+.primary-nav a {
+    color: var(--clr-neutral-200);
+}
+
 .article-preview h3 {
     font-size: var(--fs-500);
 }
