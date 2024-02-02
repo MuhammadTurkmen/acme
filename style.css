@@ -279,6 +279,17 @@ section {
     align-self: flex-start;
 }
 
+@media (min-width: 40em) {
+    .call-to-action form {
+        flex-direction: row;
+        
+    }
+    .call-to-action button {
+        align-self: center;
+    }
+}
+
+
 .call-to-action input:focus {
     border-color: var(--clr-primary-400);
     border-width: 4px;
