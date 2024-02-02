@@ -278,6 +278,11 @@ section {
     opacity: 1;
 }
 
+
+.primary-footer__inner {
+    --border: 1px solid var(var(--clr-neutral-200))
+}
+
 .footer-nav {
     display: flex;
 }
