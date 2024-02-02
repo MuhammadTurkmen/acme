@@ -139,6 +139,7 @@ h3,
     display: inline-block;
     cursor: pointer;
     border: 0;
+    background: none;
     text-decoration: none;
     color: var(--clr-neutral-900);
 }
