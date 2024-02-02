@@ -249,6 +249,9 @@ section {
     gap: 3rem;
 }
 
+@media (min-width: 40em) {
+    
+}
 .call-to-action form > div {
     flex-grow: auto;
     flex-shrink: 1;
