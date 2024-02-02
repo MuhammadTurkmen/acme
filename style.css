@@ -256,6 +256,10 @@ section {
     border-bottom: 2px solid var(--clr-neutral-300);
 }
 
+.call-to-action input:focus {
+    border-color: var(--clr-primary-400);
+}
+
 .call-to-action input::placeholder {
     color: var(--clr-neutral-300);
     opacity: 1;
