@@ -305,6 +305,7 @@ section {
 .categories {
   margin: 0;
   display: flex;
+  gap: 1rem;
 }
 
 .article-preview h3 {
