@@ -310,6 +310,7 @@ section {
 
 .categories button {
   cursor: pointer;
+  font-size: var(--fs-200);
   text-transform: uppercase;
 }
 
