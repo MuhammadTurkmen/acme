@@ -450,5 +450,5 @@ section {
 
 .article-grid article:nth-child(7),
 .article-grid article:nth-child(8) {
-
+  grid-column: span 3;
 }
