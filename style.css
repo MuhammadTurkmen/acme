@@ -229,6 +229,11 @@ section {
     background-position: center center;
 }
 
+.page-home .primary-header {
+  background-image: url(/img/hero.jpg);
+  background-position: center center;
+}
+
 .primary-nav {
     position: fixed;
     bottom: 0.5em;
