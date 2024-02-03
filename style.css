@@ -226,6 +226,7 @@ section {
 
 .page-home .primary-header {
     background-image: url(/img/hero.jpg);
+    background-position: center center;
 }
 
 .primary-nav {
