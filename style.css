@@ -305,7 +305,11 @@ section {
 .categories {
   margin: 0;
   display: flex;
-  gap: 1rem;
+  gap: 1rem; 
+}
+
+.categories button {
+  cursor: pointer;
 }
 
 .article-preview h3 {
