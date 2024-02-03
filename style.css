@@ -225,6 +225,10 @@ section {
     flex-direction: column;
 }
   
+.primary-header .container {
+  margin-top: auto;
+  margin-bottom: auto;
+}
 
 .page-home .primary-header {
     background-image: url(/img/hero.jpg);
