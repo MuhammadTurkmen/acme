@@ -436,7 +436,9 @@ section {
 }
 
 
-
+.article-grid > * {
+  grid-column: 1 / -1;
+}
 
 @media (min-width: 40em) {
   
