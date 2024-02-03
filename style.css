@@ -448,7 +448,7 @@ section {
   grid-column: span 2;
 }
 
-.article-grid article:nth-child(3),
-.article-grid article:nth-child(3) {
-  
+.article-grid article:nth-child(7),
+.article-grid article:nth-child(8) {
+
 }
