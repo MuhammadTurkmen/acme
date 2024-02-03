@@ -458,6 +458,10 @@ section {
     gap: 1em;
   }
 
+  .article-grid .article-preview:first-child img {
+    grid-row: span 3;
+  }
+
   .article-grid > *:nth-child(2), 
   .article-grid > *:nth-child(3) {
     grid-column: span 3; 
