@@ -428,3 +428,7 @@ section {
   
 
   /* blog page styles */
+
+  .article-grid {
+    display: grid;
+  }
