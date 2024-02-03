@@ -230,6 +230,10 @@ section {
   margin-bottom: auto;
 }
 
+.primary-header .container > * {
+  max-width: 12ch;
+}
+
 .page-home .primary-header {
     background-image: url(/img/hero.jpg);
     background-position: center center;
