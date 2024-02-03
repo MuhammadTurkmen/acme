@@ -224,6 +224,10 @@ section {
 }
   
 
+.page-home .primary-header {
+    background-image: url(/img/hero.jpg);
+}
+
 .primary-nav {
     position: fixed;
     bottom: 0.5em;
