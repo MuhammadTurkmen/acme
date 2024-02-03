@@ -461,7 +461,7 @@ section {
 
   .article-grid .article-preview:first-child img {
     grid-row: span 3;
-    height: 30.5rem;
+    height: 17.5rem;
   }
 
   .article-grid .article-preview:first-child h3 {
