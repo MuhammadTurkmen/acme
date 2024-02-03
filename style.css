@@ -312,6 +312,8 @@ section {
   cursor: pointer;
   font-size: var(--fs-200);
   text-transform: uppercase;
+  background: transparent;
+  border: 0;
 }
 
 .article-preview h3 {
