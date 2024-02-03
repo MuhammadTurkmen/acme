@@ -455,7 +455,7 @@ section {
   .article-grid .article-preview:first-child {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 1em;
+    gap: 0 1em;
   }
 
   .article-grid .article-preview:first-child img {
