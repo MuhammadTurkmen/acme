@@ -427,9 +427,13 @@ section {
   }
   
 
-  /* blog page styles */
+/* blog page styles */
 
-  .article-grid {
+.article-grid {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-  }
+}
+
+.article-grid article {
+  grid-column: ;
+}
