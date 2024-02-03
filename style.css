@@ -302,10 +302,14 @@ section {
   align-items: center;
 }
 
+.secondary-navigation > *:last-child {
+  margin-left: auto;
+}
+
 .categories {
   margin: 0;
   display: flex;
-  gap: 1rem; 
+  gap: 2rem; 
 }
 
 .categories button {
