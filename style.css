@@ -441,7 +441,7 @@ section {
 @media (min-width: 40em) {
   
   .article-grid > *:first-child {
-    grid-column: 1 / -1;
+    grid-column: 1 / -1; 
   }
   
   .article-grid > *:nth-child(2), 
