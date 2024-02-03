@@ -310,6 +310,7 @@ section {
 
 .categories button {
   cursor: pointer;
+  text-transform: uppercase;
 }
 
 .article-preview h3 {
