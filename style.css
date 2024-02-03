@@ -302,7 +302,7 @@ section {
   align-items: center;
 }
 
-.secondary-navigation > *:last-child {
+.secondary-navigation > a:last-child {
   margin-left: auto;
 }
 
