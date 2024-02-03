@@ -452,6 +452,11 @@ section {
     grid-column: 1 / -1; 
   }
    
+  .article-grid .article-preview:first-child {
+    display: grid;
+    
+  }
+
   .article-grid > *:nth-child(2), 
   .article-grid > *:nth-child(3) {
     grid-column: span 3; 
