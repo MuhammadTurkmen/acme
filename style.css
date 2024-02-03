@@ -221,6 +221,8 @@ section {
     background-color: var(--clr-primary-400);
     background-size: cover;
     min-height: 50vh;
+    display: flex;
+    flex-direction: column;
 }
   
 
