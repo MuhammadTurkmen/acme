@@ -434,6 +434,11 @@ section {
     grid-template-columns: repeat(6, 1fr);
 }
 
-.article-grid article {
-  grid-column: span 2;
+.article-grid article:first-child {
+  grid-column: 1 / -1;
+}
+
+.article-grid article:nth-child(2), 
+.article-grid article:nth-child(3) {
+  grid-column: span 3;
 }
