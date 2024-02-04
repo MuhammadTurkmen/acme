@@ -354,7 +354,7 @@ section {
   display: block;
   text-decoration: none;
   font-size: var(--fs-400);
-  
+  font-weight: var(--fw-300);
 }
 
 .article-preview h3 {
