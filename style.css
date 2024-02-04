@@ -259,6 +259,7 @@ section {
   left: 0;
   right: 25%;
   background: linear-gradient(
+    90deg,
     rgba(255, 255, 255, .45),
     rgba(255, 255, 255, 0)
   );
