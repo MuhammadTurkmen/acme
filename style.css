@@ -248,6 +248,7 @@ section {
   background-image: url(/img/article.jpg);
   background-position: left center;
   position: relative;
+  overflow: hidden;
 }
 
 .page-article .primary-header::after {
