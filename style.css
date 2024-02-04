@@ -133,13 +133,19 @@ a:focus {
     font-size: var(--fs-600);
 }
   
+.article-full h3,
 .section-title {
     font-size: var(--fs-600);
     color: var(--clr-neutral-400);
 }
   
+.article-full h3 + p, 
 .section-subtitle {
     font-size: var(--fs-600);
+}
+
+.article-full h3 + p {
+  
 }
   
 .btn {
