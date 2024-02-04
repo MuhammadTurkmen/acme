@@ -511,6 +511,7 @@ section {
 /* individual article page */
 
 .article-full {
+  --flow-spacer: 3em;
   max-width: 40rem;
   margin: 0 auto;
 }
