@@ -258,7 +258,9 @@ section {
   bottom: 0;
   left: 0;
   right: 25%;
-  background: red;
+  background: linear-gradient(
+    
+  );
 }
 
 .primary-nav {
