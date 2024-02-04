@@ -509,3 +509,7 @@ section {
 
 
 /* individual article page */
+
+.article-full {
+  max-width: 40rem;
+}
