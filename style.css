@@ -251,7 +251,7 @@ section {
 
 .page-article .primary-header::after {
   content: '';
-  
+  position: absolute;
 }
 
 .primary-nav {
