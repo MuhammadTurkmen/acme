@@ -352,6 +352,7 @@ section {
 
 .article-preview a {
   display: block;
+  text-decoration: none;
 }
 
 .article-preview h3 {
