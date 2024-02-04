@@ -249,6 +249,11 @@ section {
   background-position: left center;
 }
 
+.page-article .primary-header::after {
+  content: '';
+  
+}
+
 .primary-nav {
     position: fixed;
     bottom: 0.5em;
