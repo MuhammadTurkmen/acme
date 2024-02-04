@@ -244,6 +244,11 @@ section {
   background-position: left center;
 }
 
+.page-article .primary-header {
+  background-image: url(/img/article.jpg);
+  background-position: left center;
+}
+
 .primary-nav {
     position: fixed;
     bottom: 0.5em;
