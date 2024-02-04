@@ -145,7 +145,7 @@ a:focus {
 }
 
 .article-full h3 + p {
-  
+  font-family: var(--ff-serif);
 }
   
 .btn {
