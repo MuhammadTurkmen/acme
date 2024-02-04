@@ -245,7 +245,6 @@ section {
 }
 
 .page-article .primary-header {
-  background-size: 150%;
   background-image: url(/img/article.jpg);
   background-position: left center;
 }
