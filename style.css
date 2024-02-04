@@ -146,6 +146,7 @@ a:focus {
 
 .article-full h3 + p {
   font-family: var(--ff-serif);
+  margin-top: 0;
 }
   
 .btn {
