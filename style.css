@@ -353,6 +353,8 @@ section {
 .article-preview a {
   display: block;
   text-decoration: none;
+  font-size: var(--fs-400);
+  
 }
 
 .article-preview h3 {
