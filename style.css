@@ -350,6 +350,10 @@ section {
   border: 0;
 }
 
+.article-preview a {
+  display: block;
+}
+
 .article-preview h3 {
     font-size: var(--fs-500);
 }
