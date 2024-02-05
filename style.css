@@ -359,6 +359,7 @@ section {
 
 .article-preview a::before {
   content: "";
+  position: absolute;
 }
 
 .article-preview h3 {
