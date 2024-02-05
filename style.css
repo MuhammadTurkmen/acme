@@ -363,7 +363,10 @@ section {
 
 }
 
-
+.article-preview a:hover,
+.article-preview a:focus {
+  color: inherit;
+}
 
 .article-preview:hover a::before {
   --offset: -1em;
