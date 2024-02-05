@@ -357,6 +357,10 @@ section {
   font-weight: var(--fw-300);
 }
 
+.article-preview a::before {
+  content: "";
+}
+
 .article-preview h3 {
     font-size: var(--fs-500);
 }
