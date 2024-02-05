@@ -364,6 +364,7 @@ section {
 }
 
 .article-preview a::before {
+  --offset: -1em;
   content: "";
   position: absolute;
   top: 0;
