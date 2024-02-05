@@ -381,6 +381,10 @@ section {
   box-shadow: 0;
 }
 
+.article-preview:hover a::before {
+  box-shadow:0 0.75rem 1.25rem rgba(0, 0, 0, .15);
+}
+
 .article-preview h3 {
     font-size: var(--fs-500);
 }
