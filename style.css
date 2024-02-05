@@ -373,6 +373,7 @@ section {
   right: var(--offset);
   background-color: pink;
   z-index: -1;
+  border-radius: var(--br);
 }
 
 .article-preview h3 {
