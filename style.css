@@ -378,12 +378,13 @@ section {
   right: var(--offset);
   z-index: -1;
   border-radius: var(--br);
-  box-shadow: 0;
+  box-shadow:0 0.75rem 1.25rem rgba(0, 0, 0, .15);
   transition: box-shadow 350ms ease;
+  opacity: 0;
 }
 
 .article-preview:hover a::before {
-  box-shadow:0 0.75rem 1.25rem rgba(0, 0, 0, .15);
+  opacity: 1;
 }
 
 .article-preview h3 {
