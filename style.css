@@ -370,7 +370,7 @@ section {
   top: 0;
   bottom: var(--offset);
   left: var(--offset);
-  right: 0;
+  right: var(--offset);
   background-color: pink;
   z-index: -1;
 }
