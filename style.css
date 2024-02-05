@@ -355,6 +355,7 @@ section {
   text-decoration: none;
   font-size: var(--fs-400);
   font-weight: var(--fw-300);
+  position: relative;
 }
 
 .article-preview a::before {
