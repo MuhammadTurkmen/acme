@@ -367,6 +367,7 @@ section {
   left: 0;
   right: 0;
   background-color: pink;
+  z-index: -1;
 }
 
 .article-preview h3 {
