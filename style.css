@@ -360,6 +360,7 @@ section {
 .article-preview a::before {
   content: "";
   position: absolute;
+  top: 0;
 }
 
 .article-preview h3 {
