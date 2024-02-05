@@ -363,7 +363,9 @@ section {
 
 }
 
-.article-preview a::before {
+
+
+.article-preview:hover a::before {
   --offset: -1em;
   content: "";
   position: absolute;
