@@ -379,6 +379,7 @@ section {
   z-index: -1;
   border-radius: var(--br);
   box-shadow: 0;
+  transition: box-shadow 350ms ease;
 }
 
 .article-preview:hover a::before {
