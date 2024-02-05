@@ -374,6 +374,7 @@ section {
   background-color: pink;
   z-index: -1;
   border-radius: var(--br);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .2);
 }
 
 .article-preview h3 {
