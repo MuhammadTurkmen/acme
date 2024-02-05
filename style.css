@@ -367,7 +367,7 @@ section {
   --offset: -1em;
   content: "";
   position: absolute;
-  top: 0;
+  top: var(--offset);
   bottom: var(--offset);
   left: var(--offset);
   right: var(--offset);
