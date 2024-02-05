@@ -371,10 +371,9 @@ section {
   bottom: var(--offset);
   left: var(--offset);
   right: var(--offset);
-  background-color: pink;
   z-index: -1;
   border-radius: var(--br);
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .2);
+  box-shadow: 0 0.75rem 1.25rem rgba(0, 0, 0, .15);
 }
 
 .article-preview h3 {
