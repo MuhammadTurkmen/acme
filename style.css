@@ -548,7 +548,7 @@ section {
   .article-grid > *:nth-child(7),
   .article-grid > *:nth-child(8) {
     grid-column: span 3;
-  }
+  } 
 }
 
 
@@ -560,4 +560,3 @@ section {
   margin-left:  auto;
   margin-right: auto;
 }
- 
