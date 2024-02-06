@@ -207,13 +207,13 @@ section {
 }
   
 @media (min-width: 40em) {
-    .split {
+  .split {
       flex-direction: row;
-    }
+  }
   
-    .split > * + * {
+  .split > * + * {
       margin: 0 0 0 2.5rem;
-    }
+  }
 }
   
 .xl-space {
