@@ -556,7 +556,7 @@ section {
 
 .article-full {
   --flow-spacer: 2em;
-  max-width: 40rem;
+  max-width: 40rem; 
   margin-left:  auto;
   margin-right: auto;
 }
